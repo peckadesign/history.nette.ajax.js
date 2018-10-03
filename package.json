@@ -1,0 +1,17 @@
+{
+  "name": "history.nette.ajax.js",
+  "description": "History plugin for nette.ajax.js",
+  "main": "./client-side/history.ajax.js",
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/attreid/history.nette.ajax.js"
+  },
+  "author": {
+	"name": "Vojtěch Dobeš",
+	"email": "me@vojtechdobes.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+	"nette.ajax.js": "~2"
+  }
+}
